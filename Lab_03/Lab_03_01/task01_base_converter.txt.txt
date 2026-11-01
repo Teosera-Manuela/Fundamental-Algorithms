@@ -1,0 +1,33 @@
+COMO COMPILAR NO CODE::BLOCKS (WINDOWS)
+
+1. COMPILAÇÃO E EXECUÇÃO:
+   - Pressione F9 (Build and Run). O Code::Blocks criará o executável.
+
+2. PASSANDO ARGUMENTOS (LINHA DE COMANDO):
+   - Como o programa usa argv, você deve configurar os argumentos.
+   - Vá em Project -> Set program's arguments...
+
+   - Exemplo 1: Para converter 255 para base 2 'Binário' (r=1):
+     255 3
+
+   - Exemplo 2: Para converter 255 para base 4 'Quaternário' (r=2):
+     255 2
+
+   - Exemplo 3: Para converter 255 para base 8 'Octal' (r=3):
+     255 3
+
+   - Exemplo 4: Para converter 255 para base 16 'Hexadecimal' (r=4):
+     255 4
+
+   - Exemplo 5: Para converter 255 para base 32 (r=5):
+     255 5
+
+   - Clique em OK e pressione F9 novamente.
+
+5. OBSERVAÇÃO SOBRE A LÓGICA:
+   - O programa NÃO usa +, -, *, / ou % na lógica de conversão.
+   - Usa apenas & (AND) e >> (Shift Right).
+   - A validação de entrada e formatação de saída usam funções padrão de IO.
+
+
+

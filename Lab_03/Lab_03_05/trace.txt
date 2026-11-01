@@ -1,0 +1,12 @@
+
+--- Alunos com media acima da media geral (14.48) ---
+Ana Silva (Media: 15.80)
+Beatriz Costa (Media: 18.00)
+Elisa Martins (Media: 18.00)
+Aluno ID 1: Ana Silva, Grupo: G01, Media: 15.80
+
+--- Alunos com media acima da media geral (14.48) ---
+Ana Silva (Media: 15.80)
+Beatriz Costa (Media: 18.00)
+Elisa Martins (Media: 18.00)
+Aluno ID 1: Ana Silva, Grupo: G01, Media: 15.80

@@ -1,0 +1,5 @@
+Configurar Argumentos:
+Vá em Project -> Set program's arguments... e digite:
+
+
+habitantes.txt

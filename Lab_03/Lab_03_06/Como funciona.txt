@@ -1,0 +1,8 @@
+Vá em Project -> Set program's arguments...
+Digite exatamente isso:
+
+
+paragem_A.txt paragem_B.txt paragem_C.txt
+
+
+(Nota: Os arquivos serão lidos em qualquer ordem que você digitar, mas o programa vai ordená-los pelo tempo interno).

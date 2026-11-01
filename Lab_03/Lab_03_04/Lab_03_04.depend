@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793518100 source:d:\meus estudos\meu laboratorios\linguagem c\laboratorio_03\lab_03_04\task04_mail_system.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

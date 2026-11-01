@@ -1,0 +1,5 @@
+1 Ana Silva G01 15 18 12 20 14
+2 Carlos Santos G01 10 10 10 10 10
+3 Beatriz Costa G02 20 19 18 17 16
+4 Daniel Pereira G01 8 12 9 14 10
+5 Elisa Martins G02 16 17 18 19 20

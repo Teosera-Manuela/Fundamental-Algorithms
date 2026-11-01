@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793515702 source:d:\meus estudos\meu laboratorios\linguagem c\laboratorio_03\lab_03_01\task01_base_converter.c
+	<stdio.h>
+	<stdlib.h>
+

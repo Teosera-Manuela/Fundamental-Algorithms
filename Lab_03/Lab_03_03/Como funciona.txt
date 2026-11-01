@@ -1,0 +1,21 @@
+COMO TESTAR NO CODE::BLOCKS (WINDOWS)
+
+1. CRIE O ARQUIVO:
+   - File -> New -> Empty File.
+   - Salve como task03_huffman.c.
+   - Adicione ao projeto.
+
+2. CRIE UM ARQUIVO DE TESTE:
+   - Crie um arquivo de texto (ex: teste.txt) na mesma pasta do código.
+   - Digite frases repetitivas para ver a compressão funcionar. Ex:
+     "O rato roeu a roupa do rei de Roma. A rainha com raiva resolveu remendar."
+   - Salve o arquivo.
+
+3. CONFIGURAÇÃO DE ARGUMENTOS:
+   - Vá em Project -> Set program's arguments...
+   - Digite: teste.txt
+   - Clique em OK.
+
+4. COMPILE E EXECUTE:
+   - Pressione F9.
+   - O terminal mostrará a tabela (ex: o byte 32 que é o espaço terá uma frequência alta).
