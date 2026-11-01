@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793486680 source:d:\meus estudos\meu laboratorios\linguagem c\laboratorio_02\lab_02_02\task02_employee_sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

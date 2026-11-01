@@ -1,0 +1,10 @@
+Flag -l: -l "OlaMundo" (vai imprimir 8) - serve para medir o comprimento da palavra entre aspas
+
+Flag -r: -r "Abacaxi" (vai imprimir ixacabA) - serve para inverter as palavras entre aspas
+
+Flag -u: -u "abcdef" (vai imprimir aBcDeF) - serve para colocar as palavras de letras impar em maiusculas.
+
+Flag -n: -n "a1b2!c3" (vai imprimir 123abc!)
+
+Flag -c: -c 42 "Ignorada" "str1" "str2" "str3"
+(Como o código pega a partir da 2ª, a "Ignorada" será descartada, e str1, str2 e str3 serão embaralhadas com seed 42 e concatenadas).

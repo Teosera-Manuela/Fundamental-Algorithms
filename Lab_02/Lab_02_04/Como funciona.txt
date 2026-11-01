@@ -1,0 +1,5 @@
+4 10
+foto.jpg 5 10
+video.mp4 8 20
+doc.pdf 3 8
+musica.mp3 4 12
